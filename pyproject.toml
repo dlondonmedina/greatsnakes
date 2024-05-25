@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "great-snakes"
+version = "0.1.0"
+description = ""
+authors = ["dylangotlearning <dylan@gotlearning.com>"]
+readme = "README.md"
+packages = [{include = "great_snakes"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs-material = "^9.5.24"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

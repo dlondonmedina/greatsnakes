@@ -1,0 +1,4 @@
+site_name: Great Snakes - Test Driven Development with Python
+site_url: https://dlondonmedina.github.io/greatsnakes
+theme:
+  name: material
